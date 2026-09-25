@@ -1,0 +1,148 @@
+Text,Label
+Can you give information about Alex's Line?,Assets
+Give me details of my mobile line.,Assets
+Do I have international service on 5550100001.,Assets
+Do I have international service on Jane Smith's line?.,Assets
+Does Jane have international service on her line,Assets
+Does Chris have international service on his line?.,Assets
+List the mobile lines with international service.,Assets
+What lines have international travel package?.,Assets
+get me lines with International plans.,Assets
+get my information on lines with international plans.,Assets
+get me all the lines with International plans.,Assets
+How about Level 3 DIA?,Assets
+give me assets of type DIA,Assets
+Show me my DIA Circuits.,Assets
+How many DIA lines do I have.,Assets
+Give me all DIA lines.,Assets
+List DIA lines.,Assets
+what are my DIA assets.,Assets
+Give me DIA lines in Springfield.,Assets
+How many DIAs do I have in CA.,Assets
+how many DIAs does Acme Corp have in CA.,Assets
+How many DIAs do I have in CA.,Assets
+how many DIAs does Acme Corp have.,Assets
+I need some information about my line 5550100002.,Assets
+Get asset details for line 5550100002.,Assets
+List circuit count by carrier.,Assets
+can you give me a list of all circuit reference numbers that are out of contract?.,Assets
+Get asset details for IMEI:350000000000001.,Assets
+Get asset details for IMEI 350000000000001,Assets
+What are charges for last 3 months for cable.,Assets
+Give me the line with the highest usage.,Assets
+get me details about my mobile device.,Assets
+does Emma Wilson have a laptop.,Assets
+how many services are assigned to Jordan.,Assets
+how many mobile lines have a smart phone.,Assets
+what mobile inventory has pending changes.,Assets
+how many active mobile lines are there.,Assets
+How many iPhones are active on my account.,Assets
+What are charges for last 3 months for Alex Morgan.,Assets
+What are charges for last 3 months for Alex.,Assets
+What are charges for last 3 months for Alex Morgan.,Assets
+What are charges for last 3 months for 5550100002.,Assets
+List line count by carrier.,Assets
+How many mobile asset does Alex have?,Assets
+Do I have any mobile asset?,Assets
+Does Alex have a mobile asset?,Assets
+What are Jordan Patel assets?,Assets
+Which billing entity billed me the most for the regulatory category in the last 3 months?,Assets
+What's my average montly spend in for Hardware over the last 3 months?,Invoices
+What is the percent change in my total spend with billing entity Microsoft over the last two months?,Invoices
+What is the percent change in my total mobile spend over the last three months?,Invoices
+What's my total mobile spend for May?,Invoices
+What is the percent change in my total spend with carrier AT&T over the last two billing cycles?,Invoices
+What was my most expensive charge in the last 3 months?,Invoices
+How many charges do I have that are more than 50 dollars in the last 3 months?,Invoices
+Get me all charges above $1000 in the last 3 months.,Invoices
+How much have I been charged in the last 3 months?,Invoices
+List my most expensive invoices last month,Invoices
+What are my 10 most expensive carriers?,Invoices
+What are my top 3 charge groups in the last month?,Invoices
+What is the total of all invoices last month?,Invoices
+What are the top 10 most expensive lines or circuits in the last 3 months?,Invoices
+What was my total expense for the month before last?,Invoices
+What was the average monthly charge by charge group over the past 3 months?,Invoices
+Can you list the top five billing entities with the highest total amounts in the last 3 months?,Invoices
+How much was billed for Domestic Messaging services in each of the last three months?,Invoices
+Which invoices from the last 3 months show charges related to Administration Fee?,Invoices
+What is my total expenditure relating to international data in the last 3 months?,Invoices
+Get me invoice count by carrier?,Invoices
+Get me amount spent by carrier in the last 3 months?,Invoices
+What is the average cost for PICC Switched Carrier Access  in the last 3 months?,Invoices
+Get me billing breakdown by group in the last 3 months.,Invoices
+What are my highest cost charge types in the last 3 months?,Invoices
+List the top five vendors with the highest billed amounts in the last 3 months.,Invoices
+Get me the total cost of administrative fees last month,Invoices
+List my largest 10 charges from invoices in the last 3 months.,Invoices
+What is the cumulative sum of charges from Microsoft in the month before last?,Invoices
+Which billing entity was I charged most by in the last 3 months?,Invoices
+How much did I spend in SaaS last month?,Invoices
+"For verizon, what are my top 5 lines I'm paying most for?",Invoices
+How much was I billed by Zoom last month?,Invoices
+What billing entity was I charged most by the month before last?,Invoices
+Get me the top 5 most expensive invoices from  last month?,Invoices
+Get me the top 5 most expensive invoices billed to me last month by  Verizon?,Invoices
+"What is the total of all invoices in June, 2024?",Invoices
+Who was my most expensive billing entity in May?,Invoices
+What is the total expenditure on hardware purchases in each of the last three months?,Invoices
+List the top five vendors with the highest billed amounts for maintenance in the last 3 months.,Invoices
+How much did I spend on cloud services in each of the last three months?,Invoices
+Which invoices from the last month show charges related to regulatory compliance fees?,Invoices
+Get me the total cost of network infrastructure upgrades last billing cycle.,Invoices
+What was the average monthly cost of software licenses over the past 3 months?,Invoices
+How much was billed for consulting services in each of the last three months?,Invoices
+What is the total expenditure on security last month?,Invoices
+What is the percentage change in my total spend with Microsoft Azure in the last two billing cycles?,Invoices
+List my largest charges from invoices from Microsoft in the last 3 months that exceed $2000.,Invoices
+List the top five vendors with the highest billed amounts for mobile phones in the last 3 months.,Invoices
+What's the status on ticket number 100001?,Tickets
+Give me details for Ticket# 100001?,Tickets
+How many open tickets do I have right now?,Tickets
+Get me details about open tickets for Mike?,Tickets
+How many high severity tickets do I have open right now?,Tickets
+Get me details about open medium priority tickets?,Tickets
+Get me details on open tickets in the Network spend category?,Tickets
+Do I have any tickets with Comcast open right now?,Tickets
+How many open tickets have I had in the last 3 months?,Tickets
+Give me the list of highest priorty tickets with their current status,Tickets
+Tell me about my open ticket for line 5550100003?,Tickets
+What is the issue on the ticket for line 5550100999?,Tickets
+What is the open ticket number for line 5550100003?,Tickets
+How long has ticket 100004 been open for?,Tickets
+Tell me about the asset and what's wrong with it for ticket #100002.,Tickets
+When did ticket number 100003 close?,Tickets
+When did the most recent ticket relating to my mobile phone not working close?,Tickets
+Get me ticket count by spend category for the last 20 tickets?,Tickets
+Do I have any open tickets for cell phones?,Tickets
+What is my most frequent issue type for my last 10 tickets?,Tickets
+Get me ticket count by priority level.,Tickets
+Who is the carrier for ticket #100001,Tickets
+Do I have any high severity tickets open right now?,Tickets
+Summarize the recent issue regarding circuit XKCD0001?,Tickets
+When was the last time ticket #100005 was updated?,Tickets
+How long was ticket #100003 open for?,Tickets
+Give me tickets history for line 5550100004,Tickets
+Get me all open tickets with issues relating to MNS alerts?,Tickets
+How long ago did Mike submit his ticket regarding the Fraud Alert issue?,Tickets
+Get me all tickets in queue.,Tickets
+What spend category does Ticket# 100001 relate to?,Tickets
+How many open tickets do I have right now with a high priority?,Tickets
+What was the last day that ticket 100005 was updated,Tickets
+How many low severity tickets do I have open right now?,Tickets
+How severe is the Microsoft Azure Down Hard issue ticket?,Tickets
+Get me details on open tickets in the SaaS spend category?,Tickets
+Do I have any tickets open relating to Level 3 right now?,Tickets
+How many tickets have I opened in the last week?,Tickets
+Describe the issue for ticket #100006,Tickets
+What priority level is my ticket about Intermittent Connectivity with AT&T?,Tickets
+Get me all high severity tickets?,Tickets
+What spend category has the most tickets open right now?,Tickets
+How many tickets did I open yesterday,Tickets
+What is my longest open ticket right now?,Tickets
+What is the issue for ticket 100007?,Tickets
+What's going on with the ticket for line 5550106?,Tickets
+Get me all open tickets with issue type  intermittent connectivity?,Tickets
+Get me all tickets open with Level 3 carrier.,Tickets
+Get me open tickets related to hardware assets?,Tickets
+What is the line number listed on the ticket 100007?,Tickets
